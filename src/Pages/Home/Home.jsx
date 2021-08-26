@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Button, MenuItem, TextField } from "@material-ui/core";
 import { useHistory } from "react-router-dom";
 import "./Home.css";
-import QuizImage from "../../assets/quiz.svg";
+import QuizImage from "../../assets/Quiz.png";
 import Categories from "../../data/Categories";
 import ErrorMessage from "../../components/ErrorMessage/ErrorMessage";
 

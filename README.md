@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Used [Trivia Api](https://opentdb.com/) in this project.
+
 ## I suggest to play the quiz in mobile or mobile screen mode 😉
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
