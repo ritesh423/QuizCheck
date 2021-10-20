@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/74403818/138144400-e325915a-56ab-4fde-963c-9c4770b83f4b.mp4
+
 # Getting Started with Create React App
 
 ## Used [Trivia Api](https://opentdb.com/) in this project.
